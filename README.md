@@ -6,9 +6,7 @@ An interactive, modern frontend banking web application built with JavaScript (E
 
 ## 🔗 Live Demo
 
-👉 **[https://vercel.com/hamzanazir27s-projects/advanced-dom-bankist1]**
-
-> Replace the link above with your actual deployed URL (e.g., GitHub Pages, Netlify, Vercel).
+https://advanced-dom-bankist1.vercel.app/
 
 ---
 
